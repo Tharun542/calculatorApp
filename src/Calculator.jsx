@@ -14,7 +14,7 @@ export default function Calculator(){
     
     try{
         const result = Function(`return ${value}`)();
-        if (result === undefined || Number.isNaN(result)) {
+        if (result === undefined) {
       setTotal("Error");
       return;
     }
