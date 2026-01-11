@@ -1,0 +1,35 @@
+.input{
+    margin: 10px;
+}
+
+.calcu1{
+    padding: 5px;
+}
+
+.btn{
+    padding: 5px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.btn1{
+    padding: 5px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn2{
+    padding: 5px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
+.btn3{
+    padding: 5px;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
